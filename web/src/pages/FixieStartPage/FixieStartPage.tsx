@@ -14,7 +14,6 @@ const FixieStartPage = () => {
         <a href="https://redwoodjs.com/docs/tutorial/chapter1/first-page">
           Fixie Start Page
         </a>
-        .
       </p>
     </>
   )
