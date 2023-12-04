@@ -44,6 +44,7 @@ const FixieStartPage = () => {
 export default FixieStartPage
 ```
 
+The above code (see [HomePage.tsx](https://github.com/adriatic/rw-minimal-app/blob/main/web/src/pages/HomePage/HomePage.tsx) results with tha screenshot, below.
 
 <img width="749" alt="image" src="https://github.com/adriatic/screenshots/assets/2712405/47371d36-76fa-41fa-95eb-336c9d3a2297"/>
 
