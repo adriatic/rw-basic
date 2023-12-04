@@ -12,7 +12,7 @@ const FixieStartPage = () => {
         This is the simplest possible RedwoodJS application, created by
         following the RedwoodJS tutorial up to the (and including) the section{' '}
         <a href="https://redwoodjs.com/docs/tutorial/chapter1/first-page">
-          <h3>First Page</h3>
+          <h3>Fixie Start Page</h3>
         </a>
         .
       </p>
