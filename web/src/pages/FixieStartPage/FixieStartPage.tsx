@@ -6,13 +6,13 @@ const FixieStartPage = () => {
     <>
       <MetaTags title="FixieStart" description="FixieStart page" />
 
-      <h1>FixieStartPage</h1>
+      <h1>Fixie Start Page</h1>
 
       <p>
         This is the simplest possible RedwoodJS application, created by
         following the RedwoodJS tutorial up to the (and including) the section{' '}
         <a href="https://redwoodjs.com/docs/tutorial/chapter1/first-page">
-          <h3>Fixie Start Page</h3>
+          Fixie Start Page
         </a>
         .
       </p>
