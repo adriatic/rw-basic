@@ -46,3 +46,9 @@ export default FixieStartPage
 
 
 <img width="749" alt="image" src="https://github.com/adriatic/screenshots/assets/2712405/47371d36-76fa-41fa-95eb-336c9d3a2297"/>
+
+<h3>Note</h3>
+The rest of this sample's functionality (and the related  code) was stripped to make this sample a starter for adding AI code.
+
+---
+
